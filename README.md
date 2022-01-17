@@ -1,2 +1,1 @@
-cmy in action! /n
-to be continued..
+cmy in action!
