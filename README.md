@@ -35,3 +35,5 @@
 ⭕ Fun fact : *I love anime and spicy food!* 😎<br><br><br><br>
  
 <p align="left">
+
+<h3 align="center"> Languages and Tools: <br/></h3>
