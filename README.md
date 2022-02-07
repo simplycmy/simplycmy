@@ -47,3 +47,14 @@
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://github.com/simplycmy/gif/blob/main/python.jpg" alt="generation" height="60" width="60" /></a>
 </p>
 
+<p align="center">
+  <img src="https://github.com/simplycmy/gif/blob/main/github.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/simplycmy/gif/blob/main/ubuntu.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/simplycmy/gif/blob/main/ansible.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=simplycmy&show_icons=true&theme=tokyonight" alt="AnhellO :: Profile Stats" /></p>
+
+
+
