@@ -34,6 +34,4 @@
 ⭕ Ask from me anything you want 😉<br>
 ⭕ Fun fact : *I love anime and spicy food!* 😎<br><br><br><br>
  
-
-<img src="https://github.com/simplycmy/gif/blob/main/chart.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
