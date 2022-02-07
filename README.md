@@ -23,7 +23,7 @@
 
 </p>
 <br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://github.com/simplycmy/gif/blob/main/random.gif" />
+<img align="right" width=260px height=260px alt="side_sticker" src="https://github.com/simplycmy/gif/blob/main/earth.gif" />
 
 <img src="https://github.com/simplycmy/gif/blob/main/chart.gif" width="30px">&nbsp;***About me:***
 
