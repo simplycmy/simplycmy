@@ -28,10 +28,10 @@
 <img src="https://github.com/simplycmy/gif/blob/main/chart.gif" width="30px">&nbsp;***About me:***
 
 ⭕ Call me: ***He/His*** 😊 <br>
-⭕ I’m studying in education platform such as <b>AGC</b>, <b>Udemy</b> and <b>Coursera</b> <br>
+⭕ I’m studying in education platform such as <b>AGC</b>, <b>Udemy</b> and <b>Coursera</b> 😄<br>
 ⭕ I’m currently learning about **Cloud computing**🥰<br>
-⭕ I’m looking to collaborate with any **Open - Source Python project**<br>
-⭕ Ask from me anything you want 😉<br>
+⭕ I’m looking to collaborate with any **Open - Source Python project** 😁 <br>
+⭕ Ask from me anything you want 😉 <br>
 ⭕ Fun fact : *I love anime and spicy food!* 😎<br><br><br><br>
  
 <p align="left">
