@@ -53,8 +53,8 @@
   <img src="https://github.com/simplycmy/gif/blob/main/ansible.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="center">You can connect with me @ </h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=simplycmy&show_icons=true&theme=tokyonight" alt="AnhellO :: Profile Stats" /></p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=simplycmy&show_icons=true&theme=tokyonight" alt="AnhellO :: Profile Stats" /></p>
+<h3 align="center">You can connect with me @ <a href="https://www.linkedin.com/in/ricky-chen-maoyuan-0ab38366/" target="blank"><img align="center" src="https://github.com/simplycmy/gif/blob/main/linked.png" alt="generation" height="60" width="60" /></a></h3>
 
 
