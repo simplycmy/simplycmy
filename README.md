@@ -37,3 +37,13 @@
 <p align="left">
 
 <h3 align="center"> Languages and Tools: <br/></h3>
+<p align="center">
+<a href="https://azure.microsoft.com/en-in/" target="blank"><img align="center" src="https://github.com/simplycmy/gif/blob/main/azure.jpg" alt="generation" height="60" width="60" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com/" target="blank"><img align="center" src="https://github.com/simplycmy/gif/blob/main/docker.png" alt="generation" height="60" width="60" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="blank"><img align="center" src="https://github.com/simplycmy/gif/blob/main/git.png" alt="generation" height="60" width="60" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linux.org/" target="blank"><img align="center" src="https://github.com/simplycmy/gif/blob/main/linux.jpg" alt="generation" height="60" width="60" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.python.org/" target="blank"><img align="center" src="https://github.com/simplycmy/gif/blob/main/python.jpg" alt="generation" height="60" width="60" /></a>
+</p>
+
