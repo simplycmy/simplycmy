@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center"> Hello :smile:👋 , I'm Chen Maoyuan.<br/></h2>
+<h2 align="center"> Hello :smile:👋 , I'm Ricky Chen Maoyuan. <br/></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cloud%20%2F%20Automation-red" />
   <img src="https://img.shields.io/badge/Lives-Singapore-orange" />
