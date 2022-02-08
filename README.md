@@ -50,7 +50,6 @@
 <p align="center">
   <img src="https://github.com/simplycmy/gif/blob/main/github.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/simplycmy/gif/blob/main/ubuntu.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/simplycmy/gif/blob/main/ansible.svg" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
