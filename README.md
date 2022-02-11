@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/Languages-English%20%2F%20Chinese-yellow" />
 </p>
 
-<h3 align="center">I am a Newbie on my way to become a Cloud Support and DevOps practitioner! </h3>
+<h3 align="center">I am a Newbie on my way to become a Cloud Support and DevOps practitioner!</h3>
+<h3 align="center">My goal is to get certified in AZ900 and AZ104 by this year! </h3>
 <p align="center">
 <u><b>Organize by:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Business Partner:</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Area of Study:</b>
 </p>
